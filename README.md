@@ -1,6 +1,6 @@
 [![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)](https://anilrajrimal.com.np)
 <h1 align="center">Hi 👋, I'm Anil Raj Rimal</h1>
-<h3 align="center">A passionate android developer, UI Designer from Nepal</h3>
+<h3 align="center">A passionate DevOps Engineer, UI/UX Designer</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
@@ -8,11 +8,11 @@
 
 <p align="left"> <a href="https://twitter.com/anilrajrimal" target="blank"><img src="https://img.shields.io/twitter/follow/anilrajrimal?logo=twitter&style=for-the-badge" alt="anilrajrimal" /></a> </p>
 
-- I'm currently working on **E-Commerce Website**
+- I'm currently working on **DevOps Tools**
 
-- 🌱 I’m currently learning **Kotlin**
+- 🌱 I’m currently learning **Docker**
 
-- 💬 Ask me about **anything to learn from meng you wan**
+- 💬 Ask me about **anything you want**
 
 - 📫 How to reach me **anilrajrimal@gmail.com**
 
