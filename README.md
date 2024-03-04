@@ -1,6 +1,6 @@
 [![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)](https://anilrajrimal.com.np)
 <h1 align="center">Hi 👋, I'm Anil Raj Rimal</h1>
-<h3 align="center">A passionate DevOps Engineer, UI/UX Designer</h3>
+<h3 align="center">A passionate DevOps Learner</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
@@ -10,9 +10,9 @@
 
 - I'm currently working on **IBM DevOps Professional Certification**
 
-- 🌱 I’m currently learning **Containerization and Orchestration**
+- 🌱 I’m currently learning **Containerization**
 
-- 💬 Ask me about **Myself**
+- 💬 Ask me about **DevOps | Cloud Computing**
 
 - 📫 How to reach me **anilrajrimal@gmail.com**
 
