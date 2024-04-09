@@ -10,9 +10,9 @@
 
 - I'm currently working on **IBM DevOps Professional Certification**
 
-- 🌱 I’m currently learning **Containerization**
+- 🌱 I’m currently learning **CI/CD**
 
-- 💬 Ask me about **DevOps | Cloud Computing**
+- 💬 Ask me about **Me🥺**
 
 - 📫 How to reach me **anilrajrimal@gmail.com**
 
