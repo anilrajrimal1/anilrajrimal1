@@ -8,11 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/anilrajrimal" target="blank"><img src="https://img.shields.io/twitter/follow/anilrajrimal?logo=twitter&style=for-the-badge" alt="anilrajrimal" /></a> </p>
 
-- I'm currently working on **IBM DevOps Professional Certification**
+- I'm currently working at **NAXA Pvt. Ltd.**
 
-- 🌱 I’m currently learning **CI/CD**
-
-- 💬 Ask me about **Me🥺**
+- 🌱 I’m currently learning **DevOps**
 
 - 📫 How to reach me **anilrajrimal@gmail.com**
 
