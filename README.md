@@ -16,7 +16,7 @@
 
 - 💻 Want to see my portfolio **www.anilrajrimal.com.np**
 
-- ⚡ Fun fact **I think I am funny😂**
+- ⚡ Fun fact: I have a habit of running "clear" after every command.
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
