@@ -1,6 +1,6 @@
 [![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)](https://anilrajrimal.com.np)
 <h1 align="center">Hi 👋, I'm Anil Raj Rimal</h1>
-<h3 align="center">A passionate DevOps Learner</h3>
+<h3 align="center">A passionate DevOps Engineer</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
@@ -10,13 +10,13 @@
 
 - I'm currently working at **NAXA Pvt. Ltd.**
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently learning **Terraform**
 
 - 📫 How to reach me **anilrajrimal@gmail.com**
 
 - 💻 Want to see my portfolio **www.anilrajrimal.com.np**
 
-- ⚡ Fun fact: I have a habit of running "clear" after every command.
+- ⚡ Fun fact: I have a habit of typing "clear" after every command.
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
