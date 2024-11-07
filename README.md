@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Anil Raj Rimal</h1>
 <h3 align="center">A passionate DevOps Engineer</h3>
 
-[<img align="right" alt="Coding" width="400" src="(https://media4.giphy.com/media/oqF1fZcPhgozLbtzKq/giphy.webp?cid=790b7611z6uv135cozfjq0tizlmb7c66r7qgbxiuemse9lwc&ep=v1_gifs_search&rid=giphy.webp&ct=g)">]
+[<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/oqF1fZcPhgozLbtzKq/giphy.webp?cid=790b7611z6uv135cozfjq0tizlmb7c66r7qgbxiuemse9lwc&ep=v1_gifs_search&rid=giphy.webp&ct=g">]
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anilrajrimal1&label=Profile%20views&color=0e75b6&style=flat" alt="anilrajrimal1" /> </p>
 
