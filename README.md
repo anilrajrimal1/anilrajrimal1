@@ -1,5 +1,11 @@
 [![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)](https://anilrajrimal.com.np)
-<h1 align="center">Hi 👋, I'm Anil Raj Rimal</h1>
+
+<p align="center">
+  <a href="https://anilrajrimal.com.np" target="_blank">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=500&color=7FFF00&background=00000000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B,+I'm+Anil+Raj+Rimal;Passionate+DevOps+Engineer;Terraform+Enthusiast" alt="Typing SVG"/>
+  </a>
+</p>
+
 <h3 align="center">A passionate DevOps Engineer</h3>
 
 <img align="right" alt="Coding" width="300" src="https://media4.giphy.com/media/oqF1fZcPhgozLbtzKq/giphy.webp?cid=790b7611z6uv135cozfjq0tizlmb7c66r7qgbxiuemse9lwc&ep=v1_gifs_search&rid=giphy.webp&ct=g">
@@ -10,18 +16,23 @@
 
 - I'm currently working at **NAXA Pvt. Ltd.**
 
-- 🌱 I’m currently learning **Terraform**
+- 🌱 I’m currently learning **Terraform**  
+  `Terraform skill level:`  
+  `[███████-----] 60%`  
 
 - 📫 How to reach me **anilrajrimal@gmail.com**
 
 - 💻 Want to see my portfolio **www.anilrajrimal.com.np**
 
+- ⚡ Fun fact: I have a habit of typing "`clear`" after every command.
+
 > 🖥️ *Anil's Terminal*  
 > ```bash
-> $ clear && echo "Let's make some magic happen! ✨"
+> $ clear && echo "Let's break something again !"
 > ```
 
-## My Skill Set  
+
+### My Skill Set  
 <table><tr><td valign="top" width="33%">
 
 ### Designing  
@@ -56,7 +67,7 @@
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
 <a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" /></a>  
 <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
-<a href="https://docs.spring.io/spring-framework/docs/3.0.x/reference/expressions.html#:~:text=The%20Spring%20Expression%20Language%20(SpEL,and%20basic%20string%20templating%20functionality." target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="50" /></a>  
+<a href="https://docs.spring.io/spring-framework/docs/3.0.x/reference/expressions.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="50" /></a>  
 </div>
 
 </td><td valign="top" width="33%">
@@ -79,32 +90,38 @@
 
 </td></tr></table>  
 
-<br/>  
-
 
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/anilrajrimal1" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/anilrajrimal" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.facebook.com/fb.anilrajrimal" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="facebook" style="margin-bottom: 5px;" />
 </a>
 <a href="https://stackoverflow.com/users/26495540/anil-raj-rimal" target="_blank">
-<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white" alt="stackoverflow" style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.behance.net/the_anilrajrimal" target="_blank">
-<img src=https://img.shields.io/badge/behance-%23191919.svg?&style=for-the-badge&logo=behance&logoColor=white alt=behance style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/behance-%23191919.svg?&style=for-the-badge&logo=behance&logoColor=white" alt="behance" style="margin-bottom: 5px;" />
 </a>
 <a href="https://medium.com/@anilrajrimal" target="_blank">
-<img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white" alt="medium" style="margin-bottom: 5px;" />
 </a>  
 </div>  
+
 
 ## GitHub Stats
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anilrajrimal1&theme=chartreuse-dark&show_icons=true&locale=en&layout=compact" alt="anilrajrimal1" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anilrajrimal1&theme=chartreuse-dark&show_icons=true&locale=en" alt="anilrajrimal1" /></p>
+
+### Explore More  
+
+🚀 [My Projects](https://github.com/anilrajrimal1?tab=repositories)  
+📝 [My Blog](https://medium.com/@anilrajrimal)  
+🎨 [My Behance](https://www.behance.net/the_anilrajrimal)  
+💼 [LinkedIn](https://linkedin.com/in/anilrajrimal)  
