@@ -117,9 +117,35 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anilrajrimal1&theme=chartreuse-dark&show_icons=true&locale=en" alt="anilrajrimal1" /></p>
 
-### Explore More  
+### 🔍 Explore More
 
-🚀 [My Projects](https://github.com/anilrajrimal1?tab=repositories)  
-📝 [My Blog](https://medium.com/@anilrajrimal)  
-🎨 [My Behance](https://www.behance.net/the_anilrajrimal)  
-💼 [LinkedIn](https://linkedin.com/in/anilrajrimal)  
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/anilrajrimal1?tab=repositories" target="_blank">
+        <img src="https://img.icons8.com/ios-filled/50/000000/github.png" width="40" alt="GitHub"/><br />
+        <strong>Projects</strong>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://medium.com/@anilrajrimal" target="_blank">
+        <img src="https://img.icons8.com/ios-filled/50/000000/medium-monogram.png" width="40" alt="Medium"/><br />
+        <strong>Blog</strong>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.behance.net/the_anilrajrimal" target="_blank">
+        <img src="https://img.icons8.com/ios-filled/50/000000/behance.png" width="40" alt="Behance"/><br />
+        <strong>Designs</strong>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://linkedin.com/in/anilrajrimal" target="_blank">
+        <img src="https://img.icons8.com/ios-filled/50/000000/linkedin.png" width="40" alt="LinkedIn"/><br />
+        <strong>LinkedIn</strong>
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
