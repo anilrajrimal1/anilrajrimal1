@@ -16,7 +16,10 @@
 
 - 💻 Want to see my portfolio **www.anilrajrimal.com.np**
 
-- ⚡ Fun fact: I have a habit of typing "clear" after every command.
+> 🖥️ *Anil's Terminal*  
+> ```bash
+> $ clear && echo "Let's make some magic happen! ✨"
+> ```
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
