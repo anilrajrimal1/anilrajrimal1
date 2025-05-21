@@ -28,7 +28,8 @@
 > ```bash
 > $ clear && echo "Let's break something again !"
 > ```
-
+> 🧼 P.S. I've cleared my terminal [**1024**] times... and counting.  
+> 📦 [`cleartrack`](https://github.com/anilrajrimal1/cleartrack) is watching.👀
 
 ### My Skill Set  
 <table><tr><td valign="top" width="33%">
