@@ -16,7 +16,7 @@
 
 - 🌱 I’m currently learning **Terraform**  
   `Terraform skill level:`  
-  `[███████-----] 60%`  
+  `[██████-------] 40%`  
 
 - 📫 How to reach me **anilrajrimal@gmail.com**
 
