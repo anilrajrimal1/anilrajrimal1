@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://anilrajrimal.com.np" target="_blank">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=500&color=7FFF00&background=00000000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B,+I'm+Anil+Raj+Rimal;Junior+DevOps+Engineer;Cloud+Enthusiast;AWS+Community+Builder" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=500&color=7FFF00&background=00000000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B,+I'm+Anil+Raj+Rimal;DevOps+Engineer;Cloud+Enthusiast;AWS+Community+Builder" alt="Typing SVG"/>
   </a>
 </p>
 
@@ -16,20 +16,12 @@
 
 - 🌱 I’m currently learning **Terraform**  
   `Terraform skill level:`  
-  `[██████-------] 40%`  
+  `[█████████-----] 60%`  
 
 - 📫 How to reach me **anilrajrimal@gmail.com**
 
 - 💻 Want to see my portfolio **www.anilrajrimal.com.np**
 
-- ⚡ Fun fact: I have a habit of typing "`clear`" after every command.
-
-> 🖥️ *Anil's Terminal*  
-> ```bash
-> $ clear && echo "Let's break something again !"
-> ```
-> 🧼 P.S. I've cleared my terminal [**1024**] times... and counting.  
-> 📦 [`cleartrack`](https://github.com/anilrajrimal1/cleartrack) is watching.👀
 
 ### My Skill Set  
 <table><tr><td valign="top" width="33%">
@@ -118,11 +110,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anilrajrimal1&theme=chartreuse_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anilrajrimal1&theme=chartreuse_dark" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anilrajrimal1&theme=chartreuse_dark" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anilrajrimal1&theme=chartreuse_dark&utcOffset=5.75" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anilrajrimal1&theme=chartreuse_dark" />
 </p>
