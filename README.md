@@ -112,6 +112,17 @@
 
 
 ## GitHub Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anilrajrimal1&theme=chartreuse-dark&show_icons=true&locale=en&layout=compact" alt="anilrajrimal1" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anilrajrimal1&theme=chartreuse-dark&show_icons=true&locale=en" alt="anilrajrimal1" /></p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anilrajrimal1&theme=chartreuse_dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anilrajrimal1&theme=chartreuse_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anilrajrimal1&theme=chartreuse_dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anilrajrimal1&theme=chartreuse_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anilrajrimal1&theme=chartreuse_dark&utcOffset=5.75" />
+</p>
