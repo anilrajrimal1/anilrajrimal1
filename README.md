@@ -10,13 +10,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anilrajrimal1&label=Profile%20views&color=0e75b6&style=flat" alt="anilrajrimal1" /> </p>
 
-<p align="left"> <a href="https://twitter.com/anilrajrimal" target="blank"><img src="https://img.shields.io/twitter/follow/anilrajrimal?logo=twitter&style=for-the-badge" alt="anilrajrimal" /></a> </p>
+<p align="left">
+  <a href="https://www.linkedin.com/in/anilrajrimal/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn Connect" />
+  </a>
+</p>
 
 - I'm currently working at **NAXA Pvt. Ltd.**
-
-- 🌱 I’m currently learning **Terraform**  
-  `Terraform skill level:`  
-  `[█████████-----] 60%`  
 
 - 📫 How to reach me **anilrajrimal@gmail.com**
 
