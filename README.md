@@ -61,33 +61,6 @@ DevOps engineer focused on cloud infrastructure, automation and reliability. I w
 
 <sub>Also: Terragrunt · ECS · EKS · Helm · ArgoCD · DigitalOcean · Kibana · Trivy · Snyk</sub>
 
-## Projects
-
-**CLI tools**
-
-| Project | What it does | Install |
-|---|---|---|
-| [DockedUp](https://github.com/anilrajrimal1/dockedup) | htop for your Docker Compose stack: live status, health, CPU and memory, with hotkeys for logs, restarts and shell | `pipx install dockedup` |
-| [wtfport](https://github.com/anilrajrimal1/wtfport) | Tells you which process is listening on a TCP or UDP port | `pip install wtfport-cli` |
-| [sharemydir](https://github.com/anilrajrimal1/sharemydir) | Shares any local directory over HTTP with zero configuration | `pip install sharemydir` |
-
-**GitHub Actions**
-
-| Action | What it does |
-|---|---|
-| [aws-ecr-docker-builder-action](https://github.com/anilrajrimal1/aws-ecr-docker-builder-action) | Builds Docker images and pushes them to Amazon ECR |
-| [ecr-docker-ssh-deployer](https://github.com/anilrajrimal1/ecr-docker-ssh-deployer) | Deploys images from ECR to a remote server over SSH with Docker Compose |
-| [phase-secrets-fetch-action](https://github.com/anilrajrimal1/phase-secrets-fetch-action) | Fetches secrets from Phase Console into a `.env` file |
-| [artifact-uploader](https://github.com/anilrajrimal1/artifact-uploader) / [artifact-downloader](https://github.com/anilrajrimal1/artifact-downloader) | Uploads build artifacts to S3 and downloads them in later jobs |
-
-**Infrastructure**
-
-| Project | What it does |
-|---|---|
-| [aws-ecs-platform-infra](https://github.com/anilrajrimal1/aws-ecs-platform-infra) | AWS platform with ECS Fargate, Aurora Serverless v2, Redis, CloudFront and ALB, built with Terraform and Terragrunt |
-| [db-dump](https://github.com/anilrajrimal1/db-dump) | Docker image for automated Postgres and MongoDB backups to S3 |
-| [n8n-backups](https://github.com/anilrajrimal1/n8n-backups) | n8n workflow that backs up all your n8n workflows to GitHub |
-
 ## Latest Writing
 
 | Article | Published on |
