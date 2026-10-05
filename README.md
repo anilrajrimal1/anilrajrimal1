@@ -1,115 +1,87 @@
-[![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)](https://anilrajrimal.com.np)
+<a href="https://anilrajrimal.com.np"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:7FFF00&height=180&section=header&text=Anil%20Raj%20Rimal&fontSize=42&fontColor=ffffff&fontAlignY=35" alt="Anil Raj Rimal" width="100%"/></a>
 
 <p align="center">
-  <a href="https://anilrajrimal.com.np" target="_blank">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=500&color=7FFF00&background=00000000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B,+I'm+Anil+Raj+Rimal;DevOps+Engineer;Cloud+Enthusiast;AWS+Community+Builder" alt="Typing SVG"/>
+  <a href="https://anilrajrimal.com.np">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=500&color=7FFF00&background=00000000&center=true&vCenter=true&width=480&lines=Hi+%F0%9F%91%8B%2C+I'm+Anil+Raj+Rimal;DevOps+Engineer;Cloud+Enthusiast;AWS+Community+Builder" alt="Typing SVG"/>
   </a>
 </p>
 
-<img align="right" alt="Coding" width="300" src="https://media4.giphy.com/media/oqF1fZcPhgozLbtzKq/giphy.webp?cid=790b7611z6uv135cozfjq0tizlmb7c66r7qgbxiuemse9lwc&ep=v1_gifs_search&rid=giphy.webp&ct=g">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anilrajrimal1&label=Profile%20views&color=0e75b6&style=flat" alt="anilrajrimal1" /> </p>
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/anilrajrimal/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn Connect" />
-  </a>
+<p align="center">
+  <a href="https://anilrajrimal.com.np"><img src="https://img.shields.io/badge/Portfolio-7FFF00?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/anilrajrimal/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://medium.com/@anilrajrimal"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
+  <a href="mailto:anilrajrimal@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
-- I'm currently working at **NAXA Pvt. Ltd.**
+---
 
-- 📫 How to reach me **anilrajrimal@gmail.com**
+<table align="right">
+  <tr>
+    <td align="center">
+      <img width="300" src="https://media.giphy.com/media/QMHoU66sBXqqLqYvGO/giphy.gif" alt="This is fine"/><br/>
+      <sub><i>how prod looks before I set up monitoring</i></sub>
+    </td>
+  </tr>
+</table>
 
-- 💻 Want to see my portfolio **www.anilrajrimal.com.np**
+## About Me
 
+DevOps engineer focused on cloud infrastructure, automation and reliability. I write infrastructure as code, build delivery pipelines and set up the monitoring that keeps production calm. The goal is simple: systems that are boring in the best way.
 
-### My Skill Set  
-<table><tr><td valign="top" width="33%">
+**What I work on**
 
-### Designing  
-<div align="center">  
-<a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/premiere.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobepremierepro.png" alt="Premiere Pro" height="50" /></a>  
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/xd.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobexd.png" alt="Adobe XD" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/indesign.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobeindesign.svg" alt="Adobe InDesign" height="50" /></a>  
-<a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" /></a>  
-</div>
+- **Infrastructure as Code**: reusable Terraform and Terragrunt modules for repeatable AWS environments
+- **Containers & Orchestration**: Docker, Amazon ECS and Kubernetes (EKS)
+- **CI/CD**: GitHub Actions and Jenkins pipelines that ship fast and roll back safely
+- **Observability**: Prometheus, Grafana and alerting that surfaces issues before users do
+- **Cloud Security**: least-privilege IAM, secrets management and image scanning with Trivy and Snyk
 
-</td><td valign="top" width="33%">
+<br clear="right"/>
 
+## Tech Stack
 
+<table>
+  <tr>
+    <td><b>Cloud & IaC</b></td>
+    <td><img src="https://skillicons.dev/icons?i=aws,gcp,terraform,cloudflare" alt="Cloud and IaC"/></td>
+  </tr>
+  <tr>
+    <td><b>Containers & CI/CD</b></td>
+    <td><img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,jenkins,git" alt="Containers and CI/CD"/></td>
+  </tr>
+  <tr>
+    <td><b>Observability & Systems</b></td>
+    <td><img src="https://skillicons.dev/icons?i=prometheus,grafana,linux,bash,nginx" alt="Observability and Systems"/></td>
+  </tr>
+  <tr>
+    <td><b>Languages & Data</b></td>
+    <td><img src="https://skillicons.dev/icons?i=python,postgres,redis,mongodb,elasticsearch,rabbitmq" alt="Languages and Data"/></td>
+  </tr>
+</table>
 
-### Databases  
-<div align="center">  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-<a href="https://redis.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="50" /></a>  
-</div>  
+<sub>Also: Terragrunt · ECS · EKS · Helm · ArgoCD · DigitalOcean · Kibana · Trivy · Snyk</sub>
 
+## Latest Writing
 
-
-### Development  
-<div align="center">  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### DevOps  
-<div align="center">  
-<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
-<a href="https://www.apachefriends.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="50" /></a>  
-<a href="https://www.jenkins.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jenkins-icon.svg" alt="Jenkins" height="50" /></a>  
-<a href="https://grafana.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/grafana.png" alt="Grafana" height="50" /></a>
-<a href="https://www.terraform.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/terraformio-icon.svg" alt="Terraform" height="50" /></a>  
-<a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" /></a>  
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
-</div>
-
-</td></tr></table>  
-
-
-## Connect with me  
-<div align="center">
-<a href="https://github.com/anilrajrimal1" target="_blank">
-<img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/anilrajrimal" target="_blank">
-<img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.facebook.com/fb.anilrajrimal" target="_blank">
-<img src="https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="facebook" style="margin-bottom: 5px;" />
-</a>
-<a href="https://stackoverflow.com/users/26495540/anil-raj-rimal" target="_blank">
-<img src="https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white" alt="stackoverflow" style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.behance.net/the_anilrajrimal" target="_blank">
-<img src="https://img.shields.io/badge/behance-%23191919.svg?&style=for-the-badge&logo=behance&logoColor=white" alt="behance" style="margin-bottom: 5px;" />
-</a>
-<a href="https://medium.com/@anilrajrimal" target="_blank">
-<img src="https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white" alt="medium" style="margin-bottom: 5px;" />
-</a>  
-</div>  
-
+| Article | Published on |
+|---|---|
+| [DockedUp: My First DevOps Tool to Simplify Docker Monitoring](https://medium.com/@anilrajrimal/dockedup-my-first-devops-tool-to-simplify-docker-monitoring-b4c79a76f897) | Medium |
+| [Mastering AWS IAM: The Complete Beginner's Guide](https://awstip.com/mastering-aws-iam-the-complete-beginners-guide-8bcca6c7c3e3) | AWS Tip |
+| [Understanding VPC: The Easiest Way](https://awstip.com/understanding-vpc-the-easiest-way-d5d97642555c) | AWS Tip |
+| [Setting Up Configurations with the Prometheus Stack (Part 2)](https://blog.devops.dev/setting-up-configurations-with-the-prometheus-stack-part-2-23f656f15e2b) | DevOps.dev |
 
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anilrajrimal1&theme=chartreuse_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anilrajrimal1&theme=github_dark" alt="Profile details"/>
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anilrajrimal1&theme=github_dark" height="160" alt="Repos per language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anilrajrimal1&theme=github_dark&utcOffset=5.75" height="160" alt="Productive time"/>
 </p>
 
+---
+
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anilrajrimal1&theme=chartreuse_dark&utcOffset=5.75" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anilrajrimal1&theme=chartreuse_dark" />
+  <sub>Open to collaborating on cloud, DevOps and open source projects. Feel free to reach out.</sub>
 </p>
