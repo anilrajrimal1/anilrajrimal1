@@ -32,7 +32,7 @@
 
 ## About Me
 
-DevOps Engineer working on the cloud and Kubernetes infrastructure behind open-source humanitarian mapping tools used in disaster response. Before that I ran AWS production infrastructure for geospatial and government-sector platforms. I went from intern to engineer one incident and one Terraform module at a time, and I now supervise the interns and trainees coming up behind me.
+DevOps Engineer building and running cloud and Kubernetes infrastructure on AWS, from Terraform modules to CI/CD pipelines to the dashboards that watch them.
 
 I automate what's worth automating, watch what needs watching, and lock down what needs locking down. The goal is systems that are boring in the best way.
 
@@ -43,7 +43,6 @@ I automate what's worth automating, watch what needs watching, and lock down wha
 - Replaced long-lived AWS keys with **OIDC** across CI; production access through **Teleport**
 - Built **cross-account observability** with CloudWatch OAM and Grafana alerting
 - Run services on **EKS** through **ArgoCD**, Helm and Sealed Secrets
-- Worked remotely with an **Australian drone and satellite imagery platform** on GPU worker autoscaling (ECS, Lambda, RabbitMQ)
 
 <br clear="right"/>
 
@@ -72,16 +71,6 @@ I automate what's worth automating, watch what needs watching, and lock down wha
   </tr>
 </table>
 
-## Featured Work
-
-| Project | What it is | Proof |
-|---|---|---|
-| [**aws-ecs-platform-infra**](https://github.com/anilrajrimal1/aws-ecs-platform-infra) | Multi-service AWS platform in Terraform + Terragrunt: ECS Fargate, Aurora Serverless v2, Redis, CloudFront, ALB, with stateful and purgeable layers split for cost | Architecture notes and ADRs |
-| [**dockedup**](https://github.com/anilrajrimal1/dockedup) | `htop` for Docker Compose: live CPU/memory, health, logs and shell from one terminal | ![stars](https://img.shields.io/github/stars/anilrajrimal1/dockedup?style=flat-square) ![pypi](https://img.shields.io/pypi/v/dockedup?style=flat-square) |
-| [**n8n-backups**](https://github.com/anilrajrimal1/n8n-backups) | Scheduled backup of every n8n workflow to a GitHub repo | ![stars](https://img.shields.io/github/stars/anilrajrimal1/n8n-backups?style=flat-square) |
-| [**phase-secrets-fetch-action**](https://github.com/anilrajrimal1/phase-secrets-fetch-action) | GitHub Action that pulls secrets from Phase into CI without hardcoding them | [![Marketplace](https://img.shields.io/badge/GitHub-Marketplace-2088FF?style=flat-square&logo=githubactions&logoColor=white)](https://github.com/marketplace/actions/fetch-phase-secrets) |
-| [**deploy-with-teleport**](https://github.com/anilrajrimal1/deploy-with-teleport) | GitHub Action to deploy a Compose stack through Teleport instead of open SSH | Zero-trust deploys |
-
 ## Latest Writing
 
 | Article | Published on |
@@ -96,7 +85,7 @@ I automate what's worth automating, watch what needs watching, and lock down wha
 ---
 
 <p align="center">
-  <sub>Open to mid-level DevOps, Cloud and Platform roles, remote or global. The fastest way to reach me is <a href="https://www.linkedin.com/in/anilrajrimal/">LinkedIn</a>.</sub>
+  <sub>Open to DevOps, Cloud and Platform roles, remote or global. The fastest way to reach me is <a href="https://www.linkedin.com/in/anilrajrimal/">LinkedIn</a>.</sub>
 </p>
 
 <a href="https://anilrajrimal.com.np"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:7FFF00,100:0d1117&height=100&section=footer" width="100%" alt=""/></a>
