@@ -3,7 +3,7 @@
   <img alt="Hello there 👋" src="assets/hello-light.svg">
 </picture>
 
-<samp>A DevOps Engineer by day ☼ and a learner by night ☾</samp>
+<samp>A DevOps Engineer by day ☼ and a lifelong learner by night ☾</samp>
 
 <br>
 
